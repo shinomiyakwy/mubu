@@ -12,3 +12,4 @@
 7. 暴雪、绝区0、NBA25K
    1. 只狼、老头环、
    2. 三角洲、
+8. accerlarator buffer

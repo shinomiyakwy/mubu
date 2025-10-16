@@ -5,4 +5,7 @@
 1. UTL-8
    1. EN-pre-digit
    1. ????
-1. 
+1. geek
+1. git
+1. log
+1. plugins work

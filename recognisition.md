@@ -1,5 +1,11 @@
 //1017
 
-1. Concept pointer
-1. viewer editor 
+1. 奥本海默
+1. 大括号
+   1. 霍公式
+   1. 信息论
+   1. 韦-公式
+
+1. 在世界的主体
+1. 客户端的修复工具，stackflow
 

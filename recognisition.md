@@ -1,11 +1,14 @@
-//1017
+//1018
 
-1. 奥本海默
-1. 大括号
-   1. 霍公式
-   1. 信息论
-   1. 韦-公式
-
-1. 在世界的主体
-1. 客户端的修复工具，stackflow
+1. release my?
+1. your realism but split wide horizon(self-proof) 
+1. thanks for your attention
+1. potential memorial
+1. 认知迭代
+   1. 救不了脑残我也没办法
+   1. 摆脱竞争
+1. 不焦虑
+   1. 记忆一次，不重复看
+   1. 门槛增加
+   1. 大量输入
 

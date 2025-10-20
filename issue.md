@@ -12,3 +12,5 @@
 7. what about reality can only i handle it my truth?
 8. what my thought thinking for?if i search for somegthing???
 
+my way wil i be more richer? or enough work life
+

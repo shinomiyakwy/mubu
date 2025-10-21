@@ -31,7 +31,7 @@
 14. how to control opensource web link with my computer path
 
     personal path controler to what path i need to use always,
-    
+
 15. can one more strong if he attach to advanced high level tool with out more logical 
 
 

@@ -1,0 +1,1 @@
+painful:someone i love will love me?
